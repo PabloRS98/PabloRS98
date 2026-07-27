@@ -16,7 +16,7 @@
   <a href="mailto:pablorgz98@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/pablors98">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -105,7 +105,7 @@ be a fit for your team — or you just want to talk about a project — I'd be g
 | | |
 |---|---|
 | 📧 **Email** | [pablorgz98@gmail.com](mailto:pablorgz98@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN) |
+| 💼 **LinkedIn** | [linkedin.com/in/pablors98](https://www.linkedin.com/in/pablors98) |
 | 💻 **GitHub** | [@PabloRS98](https://github.com/PabloRS98) |
 
 <br>
@@ -172,7 +172,7 @@ puedo encajar en tu equipo — o simplemente quieres hablar de algún proyecto �
 | | |
 |---|---|
 | 📧 **Email** | [pablorgz98@gmail.com](mailto:pablorgz98@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN) |
+| 💼 **LinkedIn** | [linkedin.com/in/pablors98](https://www.linkedin.com/in/pablors98) |
 | 💻 **GitHub** | [@PabloRS98](https://github.com/PabloRS98) |
 
 </details>
