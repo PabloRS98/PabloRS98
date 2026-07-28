@@ -33,8 +33,8 @@
 
 I'm a junior developer who prefers building over reading about building. Lately my work has
 converged on one thing: **automating my own workflows with Python**. That means assistant agents
-that talk to each other over a message bus, bots that report to me on Telegram, jobs that run on
-a schedule across Windows and Linux, and dashboards that pull everything into one place.
+that talk to each other over a message bus, bots that report to me on Telegram, and dashboards
+that pull everything into one place.
 
 It also means owning the unglamorous parts — the data model, the deployment, the configuration,
 and making it all survive a reboot on a machine that isn't mine.
@@ -52,8 +52,6 @@ and making it all survive a reboot on a machine that isn't mine.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frameworks & Libraries**
 
@@ -75,13 +73,6 @@ and making it all survive a reboot on a machine that isn't mine.
 
 My current focus: assistant agents that communicate over a message bus, run across different
 operating systems, and report back through Telegram.
-
-### 🧠 Cerebro & Oráculo Ecosystem <sub>`🔒 private`</sub>
-
-The architecture, skills, NATS flows, cron jobs and scripts behind a two-assistant setup:
-**Cerebro** on Windows and **Oráculo** on Linux, working as one system across both machines.
-
-`Python` · `NATS` · `Cron` · `Windows + Linux`
 
 ### 🔗 [Arquitectura Doble Agente](https://github.com/PabloRS98/arquitectura-doble-agente)
 
@@ -124,8 +115,8 @@ my Dart and application-architecture learning has happened.
 
 `Dart` · `Flutter`
 
-<sub>🔒 A couple of projects are still private while in development. Happy to walk through the
-code or the architecture on request.</sub>
+<sub>🔒 ProyectoGRPG is still private while in development. Happy to walk through the code or
+the architecture on request.</sub>
 
 ---
 
@@ -156,8 +147,7 @@ be a fit for your team — or you just want to talk about a project — I'd be g
 Soy un desarrollador junior al que le sirve más construir que leer sobre cómo construir. Últimamente
 mi trabajo ha convergido en una sola cosa: **automatizar mis propios flujos con Python**. Eso
 significa agentes asistentes que se comunican entre sí por un bus de mensajes, bots que me reportan
-por Telegram, tareas programadas que corren en Windows y en Linux, y paneles que lo reúnen todo
-en un mismo sitio.
+por Telegram y paneles que lo reúnen todo en un mismo sitio.
 
 También significa encargarme de las partes que no lucen: el modelo de datos, el despliegue, la
 configuración y conseguir que todo sobreviva a un reinicio en una máquina que no es la mía.
@@ -169,7 +159,7 @@ configuración y conseguir que todo sobreviva a un reinicio en una máquina que 
 
 ### 🛠️ Stack tecnológico
 
-**Lenguajes:** Python · Dart · TypeScript · JavaScript
+**Lenguajes:** Python · Dart
 
 **Frameworks y librerías:** Flask · Flutter
 
@@ -179,13 +169,6 @@ configuración y conseguir que todo sobreviva a un reinicio en una máquina que 
 
 Mi foco actual: agentes asistentes que se comunican por un bus de mensajes, funcionan en distintos
 sistemas operativos y reportan a través de Telegram.
-
-#### 🧠 Ecosistema Cerebro y Oráculo — *privado*
-
-La arquitectura, skills, flujos NATS, cron jobs y scripts detrás de un sistema de dos asistentes:
-**Cerebro** en Windows y **Oráculo** en Linux, funcionando como un único sistema entre ambas máquinas.
-
-`Python` · `NATS` · `Cron` · `Windows + Linux`
 
 #### 🔗 [Arquitectura Doble Agente](https://github.com/PabloRS98/arquitectura-doble-agente)
 
@@ -227,8 +210,8 @@ fecha y donde he aprendido la mayor parte de lo que sé de Dart y de arquitectur
 
 `Dart` · `Flutter`
 
-*🔒 Un par de proyectos siguen en privado mientras están en desarrollo. Encantado de enseñar el
-código o explicar la arquitectura si hay interés.*
+*🔒 ProyectoGRPG sigue en privado mientras está en desarrollo. Encantado de enseñar el código
+o explicar la arquitectura si hay interés.*
 
 ### 📫 Contacto
 
