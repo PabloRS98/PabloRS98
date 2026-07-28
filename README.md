@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" alt="NATS">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
 <p align="center">
@@ -59,8 +59,6 @@ and making it all survive a reboot on a machine that isn't mine.
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Infrastructure & Messaging**
 
@@ -126,12 +124,6 @@ my Dart and application-architecture learning has happened.
 
 `Dart` · `Flutter`
 
-### ⚡ [remix-starter-template](https://github.com/PabloRS98/remix-starter-template)
-
-A ready-to-go Remix starter so new projects don't begin with an hour of configuration.
-
-`TypeScript` · `Remix`
-
 <sub>🔒 A couple of projects are still private while in development. Happy to walk through the
 code or the architecture on request.</sub>
 
@@ -179,7 +171,7 @@ configuración y conseguir que todo sobreviva a un reinicio en una máquina que 
 
 **Lenguajes:** Python · Dart · TypeScript · JavaScript
 
-**Frameworks y librerías:** Flask · Flutter · Remix · React
+**Frameworks y librerías:** Flask · Flutter
 
 **Infraestructura y mensajería:** Docker · NATS · Telegram Bot API · SQLite · Linux · Git
 
@@ -234,13 +226,6 @@ Un proyecto de RPG multiplataforma hecho con Flutter. Es mi base de código más
 fecha y donde he aprendido la mayor parte de lo que sé de Dart y de arquitectura de aplicaciones.
 
 `Dart` · `Flutter`
-
-#### ⚡ [remix-starter-template](https://github.com/PabloRS98/remix-starter-template)
-
-Una plantilla de arranque para Remix, para que un proyecto nuevo no empiece con una hora de
-configuración.
-
-`TypeScript` · `Remix`
 
 *🔒 Un par de proyectos siguen en privado mientras están en desarrollo. Encantado de enseñar el
 código o explicar la arquitectura si hay interés.*
