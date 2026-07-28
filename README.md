@@ -85,7 +85,7 @@ The architecture, skills, NATS flows, cron jobs and scripts behind a two-assista
 
 `Python` · `NATS` · `Cron` · `Windows + Linux`
 
-### 🔗 Arquitectura Doble Agente <sub>`🔒 private`</sub>
+### 🔗 [Arquitectura Doble Agente](https://github.com/PabloRS98/arquitectura-doble-agente)
 
 A reference architecture for running an ecosystem of two Hermes agents that talk to each other
 over **NATS**, with Telegram as the human-facing interface. Documents the messaging patterns and
@@ -93,7 +93,7 @@ the wiring so the setup can be reproduced from scratch.
 
 `Python` · `NATS` · `Telegram Bot API`
 
-### 📊 Projects Dashboard <sub>`🔒 private`</sub>
+### 📊 [Projects Dashboard](https://github.com/PabloRS98/projects-dashboard)
 
 A multi-forge project manager that aggregates repositories from **GitHub, GitLab and Bitbucket**,
 scans local clones for uncommitted or unpushed work, and pushes alerts to Telegram.
@@ -112,7 +112,7 @@ library shouldn't require a subscription or handing your data to someone else.
 
 `Python` · `Docker`
 
-### 💰 Finance Tracker <sub>`🔒 private`</sub>
+### 💰 [Finance Tracker](https://github.com/PabloRS98/finance-tracker)
 
 A personal finance manager built with **Flask** — tracking income, expenses and balances through
 a web interface.
@@ -132,8 +132,8 @@ A ready-to-go Remix starter so new projects don't begin with an hour of configur
 
 `TypeScript` · `Remix`
 
-<sub>🔒 Some projects are private while in development. Happy to walk through the code or the
-architecture on request.</sub>
+<sub>🔒 A couple of projects are still private while in development. Happy to walk through the
+code or the architecture on request.</sub>
 
 ---
 
@@ -195,7 +195,7 @@ La arquitectura, skills, flujos NATS, cron jobs y scripts detrás de un sistema 
 
 `Python` · `NATS` · `Cron` · `Windows + Linux`
 
-#### 🔗 Arquitectura Doble Agente — *privado*
+#### 🔗 [Arquitectura Doble Agente](https://github.com/PabloRS98/arquitectura-doble-agente)
 
 Una arquitectura de referencia para levantar un ecosistema de dos agentes Hermes que se comunican
 por **NATS**, con Telegram como interfaz para el usuario. Documenta los patrones de mensajería y
@@ -203,7 +203,7 @@ el cableado necesario para reproducir el montaje desde cero.
 
 `Python` · `NATS` · `Telegram Bot API`
 
-#### 📊 Projects Dashboard — *privado*
+#### 📊 [Projects Dashboard](https://github.com/PabloRS98/projects-dashboard)
 
 Un gestor de proyectos multi-forge que agrega repositorios de **GitHub, GitLab y Bitbucket**,
 escanea los clones locales en busca de trabajo sin commitear o sin subir, y envía alertas por Telegram.
@@ -221,7 +221,7 @@ un tercero.
 
 `Python` · `Docker` · `Licencia MIT`
 
-#### 💰 Finance Tracker — *privado*
+#### 💰 [Finance Tracker](https://github.com/PabloRS98/finance-tracker)
 
 Un gestor de finanzas personales hecho con **Flask**: seguimiento de ingresos, gastos y saldos
 a través de una interfaz web.
@@ -242,7 +242,7 @@ configuración.
 
 `TypeScript` · `Remix`
 
-*🔒 Algunos proyectos están en privado mientras siguen en desarrollo. Encantado de enseñar el
+*🔒 Un par de proyectos siguen en privado mientras están en desarrollo. Encantado de enseñar el
 código o explicar la arquitectura si hay interés.*
 
 ### 📫 Contacto
