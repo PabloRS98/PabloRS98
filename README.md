@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:27AAE1,100:2496ED&height=200&section=header&text=Pablo%20RS&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Python%20%C2%B7%20Automation%20%C2%B7%20Distributed%20Agents&descAlignY=54&descSize=17&animation=fadeIn" width="100%" alt="Pablo RS — Python, Automation, Distributed Agents">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=27AAE1&center=true&vCenter=true&width=600&height=45&lines=Junior+Software+Developer;Agents+that+talk+over+a+message+bus;Python+%2B+NATS+%2B+Docker;I+automate+my+own+workflows" alt="Junior Software Developer — agents, Python, NATS, Docker">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=1A7BB8&center=true&vCenter=true&width=600&height=45&lines=Junior+Software+Developer;Agents+that+talk+over+a+message+bus;Python+%2B+NATS+%2B+Docker;I+automate+my+own+workflows" alt="Junior Software Developer — agents, Python, NATS, Docker">
 
 <br>
 
@@ -200,9 +200,7 @@ a fit for your team — or you just want to talk about a project — I'd be glad
 
 <br>
 
-> [!TIP]
-> **Abierto a puestos junior, prácticas y proyectos en colaboración.**
-> La vía más rápida para contactarme es [email](mailto:pablorgz98@gmail.com) o [LinkedIn](https://www.linkedin.com/in/pablors98).
+**💼 Abierto a puestos junior, prácticas y proyectos en colaboración.** La vía más rápida para contactarme es [email](mailto:pablorgz98@gmail.com) o [LinkedIn](https://www.linkedin.com/in/pablors98).
 
 ### 👋 Sobre mí
 
@@ -280,6 +278,8 @@ puedo encajar en tu equipo — o simplemente quieres hablar de algún proyecto �
 |---|---|
 | 📧 **Email** | [pablorgz98@gmail.com](mailto:pablorgz98@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/pablors98](https://www.linkedin.com/in/pablors98) |
+
+<div align="center"><a href="#"><b>⬆️ Volver arriba</b></a></div>
 
 </details>
 
