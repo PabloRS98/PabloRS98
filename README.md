@@ -141,6 +141,41 @@ on request.
 
 <br>
 
+## 📈 Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PabloRS98/PabloRS98/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/PabloRS98/PabloRS98/output/github-snake.svg" alt="Contribution snake animation" width="100%">
+</picture>
+
+<img src="https://raw.githubusercontent.com/PabloRS98/PabloRS98/output/metrics.svg" alt="GitHub metrics" width="100%">
+
+</div>
+
+<details open>
+<summary><b>🔄 Latest repositories</b> <sub>(auto-updated every 6h)</sub></summary>
+
+<br>
+
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
+
+</details>
+
+<details>
+<summary><b>⚙️ Recent commits</b></summary>
+
+<br>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<br>
+
 ## 🛠️ Tech Stack
 
 <table>
