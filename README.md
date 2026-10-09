@@ -66,11 +66,19 @@ flowchart LR
 **Latest repositories**
 
 <!--START_SECTION:repos-->
+| Repository | Description | Language | Last push |
+|---|---|---|---|
+| [finance-tracker](https://github.com/PabloRS98/finance-tracker) | Tracker de patrimonio e ingresos/gastos personales. FastAPI + SQLAlchemy + SQLite, local-first y sin APIs de pago. | `Python` | 2026-10-03 |
+| [projects-dashboard](https://github.com/PabloRS98/projects-dashboard) | Gestor de proyectos multi-forge (GitHub/GitLab/Bitbucket) con escaneo local y alertas Telegram | `Python` | 2026-09-14 |
+| [Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) | Self-hosted catalog for books, movies, series, games and podcasts. No cloud, no paid APIs, one Docker container | `Python` | 2026-09-01 |
+| [arquitectura-doble-agente](https://github.com/PabloRS98/arquitectura-doble-agente) | Arquitectura de referencia para montar un ecosistema de dos agentes Hermes comunicados por NATS y Telegram | `Python` | 2026-07-28 |
+| [remix-starter-template](https://github.com/PabloRS98/remix-starter-template) | — | `TypeScript` | 2025-10-24 |
 <!--END_SECTION:repos-->
 
 **Recent commits**
 
 <!--START_SECTION:activity-->
+_No recent public activity._
 <!--END_SECTION:activity-->
 
 </details>
