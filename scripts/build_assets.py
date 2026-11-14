@@ -26,6 +26,7 @@ T = {
         "os_tag": "OPEN SOURCE", "os_title": "Built in the open",
         "os_lead": "Public repositories from the same workshop.",
         "view": "VIEW ON GITHUB  ↗",
+        "private": "PRIVATE REPO",
         "email": "EMAIL", "linkedin": "LINKEDIN",
         "projects": [
             ("midas", "I", "Midas", "Live", "Local-first wealth and spending tracker for households. Per-person accounts, XIRR and TWR analytics, Spanish voice entry through Telegram.", GOLD, f"{USER}/finance-tracker"),
@@ -36,7 +37,7 @@ T = {
         "oss": [
             ("projects-dashboard", "Multi-forge project manager (GitHub, GitLab, Bitbucket) with local scanning and Telegram alerts."),
             ("Content-Media-Manager", "Self-hosted catalog for books, movies, series, games and podcasts. One Docker container, no cloud."),
-            ("arquitectura-doble-agente", "Reference architecture for two Hermes agents talking over NATS and Telegram."),
+            ("finance-tracker", "Local-first personal wealth and expense tracker built with FastAPI, SQLAlchemy and SQLite."),
         ],
     },
     "es": {
@@ -47,6 +48,7 @@ T = {
         "os_tag": "CÓDIGO ABIERTO", "os_title": "Construido en abierto",
         "os_lead": "Repositorios públicos del mismo taller.",
         "view": "VER EN GITHUB  ↗",
+        "private": "REPO PRIVADO",
         "email": "EMAIL", "linkedin": "LINKEDIN",
         "projects": [
             ("midas", "I", "Midas", "En marcha", "Seguimiento de patrimonio y gasto local-first para hogares. Cuentas por persona, analítica XIRR y TWR, entrada por voz en español vía Telegram.", GOLD, f"{USER}/finance-tracker"),
@@ -57,7 +59,7 @@ T = {
         "oss": [
             ("projects-dashboard", "Gestor de proyectos multi-forge (GitHub, GitLab, Bitbucket) con escaneo local y alertas por Telegram."),
             ("Content-Media-Manager", "Catálogo autoalojado de libros, películas, series, juegos y podcasts. Un contenedor Docker, sin nube."),
-            ("arquitectura-doble-agente", "Arquitectura de referencia para dos agentes Hermes que se comunican por NATS y Telegram."),
+            ("finance-tracker", "Tracker local-first de patrimonio e ingresos/gastos con FastAPI, SQLAlchemy y SQLite."),
         ],
     },
 }
@@ -101,7 +103,7 @@ def header(lang):
         + text(148, 168, t["tagline"], 22, MUTED)
         + f'<line x1="48" y1="206" x2="782" y2="206" stroke="{GOLD}" stroke-width="1.2">'
           f'<animate attributeName="x2" from="48" to="782" dur="1.6s" fill="freeze"/></line>'
-        + text(48, 234, "PYTHON  ·  AUTOMATION  ·  AI AGENTS  ·  FLUTTER", 11.5, MUTED, TITLE, 600, 3.4)
+        + text(48, 234, "PYTHON  ·  FASTAPI  ·  DOCKER  ·  SQLITE  ·  AI AGENTS", 11.5, MUTED, TITLE, 600, 3.4)
     )
     write(f"header.{lang}.svg", svg(830, 260, body, "Pablo RS — Olimpo Labs"))
 
@@ -129,7 +131,8 @@ def card(lang, p):
         + text(w - 30 - pill_w / 2, 55, status.upper(), 9.5, accent, TITLE, 600, 1.8, "middle")
         + text(30, 106, name.upper(), 29, INK, TITLE, 500, 3)
         + lines(30, 138, desc, 17, MUTED, 50, 22)
-        + (text(30, h - 24, T[lang]["view"], 10.5, accent, TITLE, 600, 2.4) if repo else "")
+        + (text(30, h - 24, T[lang]["view"], 10.5, accent, TITLE, 600, 2.4)
+           if repo else text(30, h - 24, T[lang]["private"], 10.5, MUTED, TITLE, 600, 2.4))
     )
     write(f"card-{pid}.{lang}.svg", svg(w, h, body, f"{name} — {status}"))
 
@@ -255,8 +258,9 @@ flowchart LR
 <br>
 
 {lang_es}
-> [!TIP]
-> **Abierto a puestos junior, prácticas y proyectos en colaboración.**
+💡 **Abierto a puestos junior, prácticas y proyectos en colaboración.** Contacto rápido: [email](mailto:pablorgz98@gmail.com) o [LinkedIn](https://www.linkedin.com/in/pablors98).
+
+<div align="right"><sub><a href="#top">⬆️ Volver arriba</a></sub></div>
 
 </details>
 '''

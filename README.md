@@ -21,7 +21,7 @@
 <img src="assets/section-os.en.svg" width="100%" alt="Built in the open">
 <a href="https://github.com/PabloRS98/projects-dashboard"><img src="assets/repo-projects-dashboard.en.svg" width="100%" alt="projects-dashboard"></a>
 <a href="https://github.com/PabloRS98/Content-Media-Manager"><img src="assets/repo-Content-Media-Manager.en.svg" width="100%" alt="Content-Media-Manager"></a>
-<a href="https://github.com/PabloRS98/arquitectura-doble-agente"><img src="assets/repo-arquitectura-doble-agente.en.svg" width="100%" alt="arquitectura-doble-agente"></a>
+<a href="https://github.com/PabloRS98/finance-tracker"><img src="assets/repo-finance-tracker.en.svg" width="100%" alt="finance-tracker"></a>
 
 <div align="center"><sub>🇬🇧 English · <a href="#-en-español">🇪🇸 Léelo en español</a></sub></div>
 
@@ -68,17 +68,19 @@ flowchart LR
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Last push |
 |---|---|---|---|
-| [Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) | Self-hosted catalog for books, movies, series, games and podcasts. No cloud, no paid APIs, one Docker container | `Python` | 2026-11-13 |
-| [projects-dashboard](https://github.com/PabloRS98/projects-dashboard) | Gestor de proyectos multi-forge (GitHub/GitLab/Bitbucket) con escaneo local y alertas Telegram | `Python` | 2026-11-02 |
-| [finance-tracker](https://github.com/PabloRS98/finance-tracker) | Tracker de patrimonio e ingresos/gastos personales. FastAPI + SQLAlchemy + SQLite, local-first y sin APIs de pago. | `Python` | 2026-10-24 |
-| [arquitectura-doble-agente](https://github.com/PabloRS98/arquitectura-doble-agente) | Arquitectura de referencia para montar un ecosistema de dos agentes Hermes comunicados por NATS y Telegram | `Python` | 2026-07-28 |
-| [remix-starter-template](https://github.com/PabloRS98/remix-starter-template) | — | `TypeScript` | 2025-10-24 |
+| [finance-tracker](https://github.com/PabloRS98/finance-tracker) | Local-first personal net worth, portfolio, and expense tracker built with FastAPI, SQLAlchemy & SQLite | `Python` | 2026-11-14 |
+| [projects-dashboard](https://github.com/PabloRS98/projects-dashboard) | Self-hosted multi-forge project dashboard (GitHub/GitLab/Bitbucket) with local git scanning and Telegram alerts | `Python` | 2026-11-14 |
+| [Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) | Self-hosted catalog for books, movies, series, games and podcasts. No cloud, no paid APIs, one Docker container | `Python` | 2026-11-14 |
 <!--END_SECTION:repos-->
 
 **Recent commits**
 
 <!--START_SECTION:activity-->
-_No recent public activity._
+- `2026-11-14` · [PabloRS98/finance-tracker](https://github.com/PabloRS98/finance-tracker) — [docs: translate README to English and ignore local agent dirs](https://github.com/PabloRS98/finance-tracker/commit/165f09ccc64664381c3cb54ad3b87564014cdfdc)
+- `2026-11-14` · [PabloRS98/projects-dashboard](https://github.com/PabloRS98/projects-dashboard) — [docs: translate README/CI to English, add MIT license and remove local scratch a](https://github.com/PabloRS98/projects-dashboard/commit/13249cfd50eca9a06e5308694a634199b6e75936)
+- `2026-11-14` · [PabloRS98/Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) — [chore: untrack .claude settings and ignore local agent dirs](https://github.com/PabloRS98/Content-Media-Manager/commit/20551c3f7eae27a0627dbee4be7065f10d191ecd)
+- `2026-10-28` · [PabloRS98/Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) — [Merge pull request #67: 1.1.0, rediseño y tercera auditoría](https://github.com/PabloRS98/Content-Media-Manager/commit/0dfc1573f06570619164230ddbc44f0f5ab3b402)
+- `2026-10-28` · [PabloRS98/Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) — [Lint con el ruff fijado (0.7.4): UP038 y UP027](https://github.com/PabloRS98/Content-Media-Manager/commit/a46697401e0349b0778ec51e16fe8837f1ba079d)
 <!--END_SECTION:activity-->
 
 </details>
@@ -116,9 +118,10 @@ _No recent public activity._
 <img src="assets/section-os.es.svg" width="100%" alt="Construido en abierto">
 <a href="https://github.com/PabloRS98/projects-dashboard"><img src="assets/repo-projects-dashboard.es.svg" width="100%" alt="projects-dashboard"></a>
 <a href="https://github.com/PabloRS98/Content-Media-Manager"><img src="assets/repo-Content-Media-Manager.es.svg" width="100%" alt="Content-Media-Manager"></a>
-<a href="https://github.com/PabloRS98/arquitectura-doble-agente"><img src="assets/repo-arquitectura-doble-agente.es.svg" width="100%" alt="arquitectura-doble-agente"></a>
+<a href="https://github.com/PabloRS98/finance-tracker"><img src="assets/repo-finance-tracker.es.svg" width="100%" alt="finance-tracker"></a>
 
-> [!TIP]
-> **Abierto a puestos junior, prácticas y proyectos en colaboración.**
+💡 **Abierto a puestos junior, prácticas y proyectos en colaboración.** Contacto rápido: [email](mailto:pablorgz98@gmail.com) o [LinkedIn](https://www.linkedin.com/in/pablors98).
+
+<div align="right"><sub><a href="#top">⬆️ Volver arriba</a></sub></div>
 
 </details>
