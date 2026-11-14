@@ -76,11 +76,11 @@ flowchart LR
 **Recent commits**
 
 <!--START_SECTION:activity-->
+- `2026-11-14` · [PabloRS98/finance-tracker](https://github.com/PabloRS98/finance-tracker) — [ci: avoid SIGPIPE in comprobar-rutas.sh under pipefail](https://github.com/PabloRS98/finance-tracker/commit/817154d19422e2b6d45a89eb7fd3b21bd4356e02)
 - `2026-11-14` · [PabloRS98/finance-tracker](https://github.com/PabloRS98/finance-tracker) — [docs: translate README to English and ignore local agent dirs](https://github.com/PabloRS98/finance-tracker/commit/165f09ccc64664381c3cb54ad3b87564014cdfdc)
 - `2026-11-14` · [PabloRS98/projects-dashboard](https://github.com/PabloRS98/projects-dashboard) — [docs: translate README/CI to English, add MIT license and remove local scratch a](https://github.com/PabloRS98/projects-dashboard/commit/13249cfd50eca9a06e5308694a634199b6e75936)
 - `2026-11-14` · [PabloRS98/Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) — [chore: untrack .claude settings and ignore local agent dirs](https://github.com/PabloRS98/Content-Media-Manager/commit/20551c3f7eae27a0627dbee4be7065f10d191ecd)
 - `2026-10-28` · [PabloRS98/Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) — [Merge pull request #67: 1.1.0, rediseño y tercera auditoría](https://github.com/PabloRS98/Content-Media-Manager/commit/0dfc1573f06570619164230ddbc44f0f5ab3b402)
-- `2026-10-28` · [PabloRS98/Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) — [Lint con el ruff fijado (0.7.4): UP038 y UP027](https://github.com/PabloRS98/Content-Media-Manager/commit/a46697401e0349b0778ec51e16fe8837f1ba079d)
 <!--END_SECTION:activity-->
 
 </details>
