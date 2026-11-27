@@ -68,7 +68,7 @@ flowchart LR
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Last push |
 |---|---|---|---|
-| [Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) | Self-hosted catalog for books, movies, series, games and podcasts. No cloud, no paid APIs, one Docker container | `Python` | 2026-11-20 |
+| [Content-Media-Manager](https://github.com/PabloRS98/Content-Media-Manager) | Self-hosted catalog for books, movies, series, games and podcasts. No cloud, no paid APIs, one Docker container | `Python` | 2026-11-27 |
 | [finance-tracker](https://github.com/PabloRS98/finance-tracker) | Local-first personal net worth, portfolio, and expense tracker built with FastAPI, SQLAlchemy & SQLite | `Python` | 2026-11-14 |
 | [projects-dashboard](https://github.com/PabloRS98/projects-dashboard) | Self-hosted multi-forge project dashboard (GitHub/GitLab/Bitbucket) with local git scanning and Telegram alerts | `Python` | 2026-11-14 |
 <!--END_SECTION:repos-->
